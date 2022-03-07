@@ -2,6 +2,8 @@
 
 JStarRatingView is a simple Star Rating View for displaying star ratings and entering them (by touching the stars). It's written for iOS, in Swift 5.1 (UIKit, not SwiftUI). It also works with Interface Builder
 
+![imgpsh_fullsize_anim-38](https://user-images.githubusercontent.com/16849127/157054211-57a0608f-15cc-426b-9f34-f8441c3c8904.png)
+
 <img width="643" alt="starRatingViewInIntefaceBuilder" src="https://user-images.githubusercontent.com/16849127/156575103-4250e43a-6920-4625-84e1-b44805d10074.png">
 
 
